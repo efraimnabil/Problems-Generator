@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/efraimnabil/Problems-Generator/static/css/main.5b68c807.css",
-    "main.js": "/efraimnabil/Problems-Generator/static/js/main.2024a029.js",
-    "static/js/787.0e86fc63.chunk.js": "/efraimnabil/Problems-Generator/static/js/787.0e86fc63.chunk.js",
-    "index.html": "/efraimnabil/Problems-Generator/index.html",
-    "main.5b68c807.css.map": "/efraimnabil/Problems-Generator/static/css/main.5b68c807.css.map",
-    "main.2024a029.js.map": "/efraimnabil/Problems-Generator/static/js/main.2024a029.js.map",
-    "787.0e86fc63.chunk.js.map": "/efraimnabil/Problems-Generator/static/js/787.0e86fc63.chunk.js.map"
+    "main.css": "/Problems-Generator/static/css/main.5b68c807.css",
+    "main.js": "/Problems-Generator/static/js/main.5b1c3f76.js",
+    "static/js/787.0e86fc63.chunk.js": "/Problems-Generator/static/js/787.0e86fc63.chunk.js",
+    "index.html": "/Problems-Generator/index.html",
+    "main.5b68c807.css.map": "/Problems-Generator/static/css/main.5b68c807.css.map",
+    "main.5b1c3f76.js.map": "/Problems-Generator/static/js/main.5b1c3f76.js.map",
+    "787.0e86fc63.chunk.js.map": "/Problems-Generator/static/js/787.0e86fc63.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b68c807.css",
-    "static/js/main.2024a029.js"
+    "static/js/main.5b1c3f76.js"
   ]
 }
