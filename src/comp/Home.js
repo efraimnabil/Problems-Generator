@@ -59,17 +59,18 @@ const Home = () => {
 
       <div className="settings">
         <p>Number of Problems (1 - 20)</p>
+        <span>{numProblems}</span>
         <input
           type="range"
           min={1}
-          max={20}
+          max={10}
           value={numProblems}
           onChange={handleNumProblemsChange}
         />
-        <span>{numProblems}</span>
 
         <p>Rate of Problems (800 - 3000)</p>
         {/*step by 100*/}
+        <span>{rate}</span>
         <input
           type="range"
           min={800}
@@ -78,7 +79,6 @@ const Home = () => {
           value={rate}
           onChange={handleRateChange}
         />
-        <span>{rate}</span>
         <button onClick={generateProblems}>Generate Problems</button>
       </div>
 
