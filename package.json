@@ -1,7 +1,7 @@
 {
   "name": "problem-solving-ex",
   "version": "0.1.0",
-  "homepage": "https://github.com/efraimnabil/Problems-Generator",
+  "homepage": "https://efraimnabil.github.com.io/Problems-Generator",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
