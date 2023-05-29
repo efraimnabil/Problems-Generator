@@ -1,13 +1,27 @@
-body{
+.dark {
   background-color: #282c34;
+  color: white;
+}
+
+.light {
+  background-color: white;
+  color: black;
 }
 
 .App {
   text-align: center;
   height: 100vh;
-  color: white;
-  background-color: #282c34;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.dark-btn{
+  background-color: inherit;
+  border: none;
+  margin: 10px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 .home {
