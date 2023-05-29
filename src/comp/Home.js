@@ -63,7 +63,7 @@ const Home = () => {
         <input
           type="range"
           min={1}
-          max={10}
+          max={20}
           value={numProblems}
           onChange={handleNumProblemsChange}
         />
