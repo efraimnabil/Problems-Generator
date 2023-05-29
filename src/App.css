@@ -24,7 +24,20 @@
   right: 0;
 }
 
+@media (max-width: 600px) {
+  .dark-btn{
+    position: relative;
+    top: 0;
+    right: 0;
+  }
+}
+
+.dark-btn:hover{
+  background-color: inherit;
+}
+
 .home {
+  margin-top: 10px;
   margin: 0 auto;
   max-width: 600px;
   padding: 1rem;
